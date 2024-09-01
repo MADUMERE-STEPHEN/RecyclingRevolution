@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RecyclingRevolution/static/css/main.f855e6bc.css",
+    "main.js": "/RecyclingRevolution/static/js/main.7402b9e5.js",
+    "static/js/453.f6e687e6.chunk.js": "/RecyclingRevolution/static/js/453.f6e687e6.chunk.js",
+    "static/media/—Pngtree—man throw waste in recycle_14597158.png": "/RecyclingRevolution/static/media/—Pngtree—man throw waste in recycle_14597158.b19ef20d9294c104a28e.png",
+    "static/media/paper-craft-design-recycle-icon.jpg": "/RecyclingRevolution/static/media/paper-craft-design-recycle-icon.4a93945dd6074ea2cf94.jpg",
+    "static/media/pngegg (1).png": "/RecyclingRevolution/static/media/pngegg (1).7b21c8137004b29ec866.png",
+    "static/media/mahatma_gandhi_9a7bf75be9.jpg": "/RecyclingRevolution/static/media/mahatma_gandhi_9a7bf75be9.ac6384e150add92c626f.jpg",
+    "static/media/logo.svg": "/RecyclingRevolution/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RecyclingRevolution/index.html",
+    "main.f855e6bc.css.map": "/RecyclingRevolution/static/css/main.f855e6bc.css.map",
+    "main.7402b9e5.js.map": "/RecyclingRevolution/static/js/main.7402b9e5.js.map",
+    "453.f6e687e6.chunk.js.map": "/RecyclingRevolution/static/js/453.f6e687e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.7402b9e5.js"
+  ]
+}
