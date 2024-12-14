@@ -1,7 +1,7 @@
 import React from "react";
 import paper from '../paper-craft-design-recycle-icon.jpg'
 function Navbar(){
-    return      <nav class="navbar navbar-expand-lg my-nbg shadow fixed-top">
+    return      <nav class="navbar navbar-expand-lg my-nbg shadow ">
     <div class="container-fluid">
       <a class="navbar-brand mx-2" href="#">
         <img src={paper} alt="logo" height="70" width="70"/>
